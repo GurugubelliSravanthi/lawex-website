@@ -1,0 +1,84 @@
+img{
+  height: 100px;
+  width: auto;
+  border-radius: 20px;
+  color: white;
+  background-color: blue;
+}
+body{
+  background-color: darkslategrey;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+  border: 3px;
+  color:cadetblue;
+  background-color:black;
+  border-color: black;
+  border-radius: 10px;
+}
+td{
+  background-color:darkseagreen;
+  color: beige;
+}
+th{
+  background-color:darkgreen;
+  color:cornsilk;
+}
+h2{
+  background-color: black;
+  color: aliceblue;
+}
+h1{
+  text-align: center;
+  background-color: gray;
+  color:color-mix(in hsl shorter hue, color percentage, color percentage);
+  border: 10px solid;
+  margin: 10px;
+  padding: 10px;
+}
+button{
+  background-color: black;
+  color: aliceblue;
+  border-radius: 15px;
+  padding: 20px;
+  margin: auto;
+}
+button:hover{
+  background-color: brown;
+  color:antiquewhite;
+}
+*{
+  background-color: darkgray;
+}
+p{
+  color:indianred;
+}
+.common{
+color: chocolate;
+}
+#Benfits of lawex {
+  background-color: #dd2e69;
+  border-left: 5px solid #e91e63;
+}
+nav{
+  background-color:darkslategray;
+  color: beige;
+  padding: 10px;
+  text-align: center;
+}
+nav a{
+  color: gold;
+  text-decoration: none;
+  padding: 5px;
+  font-weight:200;
+  font-size:30px;
+  text-transform: uppercase;
+}
+section{
+  border-radius: 50px;
+  padding: 50px;
+  margin: 50px auto;
+  width: 80%;
+  box-shadow: 0 4px 12px #46005c;
+ 
+}
